@@ -1,4 +1,10 @@
 {
+  "author": "David Carr-Gregg",
+  "license": "ISC",
+  "name": "dcarg.github.io",
+  "version": "1.0.0",
+  "description": "Dcarg simple github Hello Page!",
+  "main": "index.html",
   "dependencies": {
     "sass": "^1.24.4"
   }
